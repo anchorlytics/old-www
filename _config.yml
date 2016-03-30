@@ -3,8 +3,7 @@
 
 # Site settings
 title: Anchorlytics
-description: |
-  Support for exploring the data oceans
+description: Support for exploring the data oceans
 owner: Dr. Sean Ho
 first_published: 2016
 email: anchor@seanho.com
@@ -16,6 +15,5 @@ social:
   linkedin-square: https://linkedin.com/in/seanho00
   
 # Build settings
-markdown: kramdown
 sass:
   style: compressed
