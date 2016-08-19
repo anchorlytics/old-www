@@ -3,7 +3,7 @@
 ---
 
 $baseurl: '{{ site.baseurl }}/images';
-$bannerurl: 'https://unsplash.com/photos/4O_gBjrlssQ/download';
+$bannerurl: '{{ site.baseurl }}/images/unsplash-4O_gBjrlssQ-ocean.jpg';
 
 @import 'libs/vars';
 @import 'libs/functions';
