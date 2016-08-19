@@ -8,7 +8,7 @@ owner: Dr. Sean Ho
 first_published: 2016
 email: anchor@seanho.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://anchorlytics.github.io"
+url: "http://anchorlytics.com"
 social:
   twitter: https://twitter.com/anchorlytics
   github: https://github.com/anchorlytics
