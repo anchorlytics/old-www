@@ -1,6 +1,9 @@
 ---
 title: Starting Out Bayesian
 excerpt: Check out some new intro textbooks on applied Bayesian analysis
+categories: blog
+tags: featured, books, Bayesian
+icon: book
 ---
 
 Bayesian analysis is certainly nothing new, but particularly in the 

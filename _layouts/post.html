@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<article id="main">
+
+  <header>
+    <h2>{{ page.title }}</h2>
+  </header>
+
+  <section class="wrapper style5">
+    <div class="inner{% if page.options contains 'fullwidth' %} fullwidth{% endif %}">
+      <span id="post-date">{{ page.date  | date: "%-d %B %Y" }}</span><hr
+        style="margin-top:3px;" />
+
+      {{ content }}
+
+    </div>
+  </section>
+
+</article>
