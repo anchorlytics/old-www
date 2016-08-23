@@ -9,6 +9,7 @@ first_published: 2016
 email: anchor@seanho.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://anchorlytics.com"
+features-title: Featured Blog Posts
 social:
   twitter: https://twitter.com/anchorlytics
   github: https://github.com/anchorlytics
