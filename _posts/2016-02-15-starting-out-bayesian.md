@@ -1,8 +1,11 @@
 ---
 title: Starting Out Bayesian
-excerpt: Check out some new intro textbooks on applied Bayesian analysis
+excerpt: Recommending an intro textbook on applied Bayesian analysis
 categories: blog
-tags: featured, books, Bayesian
+tags:
+  - featured
+  - books
+  - Bayesian
 icon: book
 ---
 
@@ -26,6 +29,6 @@ technical!) which works up from linear regression to generalized
 linear multilevel models (aka mixed-effect, including
 repeated-measures).  And does it all from a Bayesian perspective,
 including abundant examples in R to illustrate how to build your
-own models.  Check it out!
+own models.  I recommend it!
 
 [Statistical Rethinking](http://xcelab.net/rm/statistical-rethinking/), by Richard McElreath
